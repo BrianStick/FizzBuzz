@@ -17,13 +17,13 @@ namespace FizzBuzz
         }
          
             if (int % 3 == 0);
-            
+           
             Console.WriteLine("Fizz");
     }
         
             if (if % 5 == 0)
         
-         Console.WriteLine("Buzz');
+         Console.WriteLine("Buzz");
         };
 
         
